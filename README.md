@@ -1,2 +1,2 @@
-# geeraci-n-de-prompts
+# generacion-de-prompts
 coder
